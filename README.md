@@ -15,3 +15,5 @@ Available artifacts:
 - `metadata/build-info.json`
 - `sing-box.json`
 - `shadowrocket.conf`
+
+`sing-box.json` and `shadowrocket.conf` are safe placeholders. They contain no real VPS credentials, tokens, private keys, or server addresses. Replace placeholder policies and outbounds in your private client configuration before using them for traffic.

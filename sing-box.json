@@ -5,7 +5,20 @@
   "dns": {
     "servers": []
   },
-  "outbounds": [],
+  "outbounds": [
+    {
+      "type": "block",
+      "tag": "PLACEHOLDER_EU_OUTBOUND"
+    },
+    {
+      "type": "block",
+      "tag": "PLACEHOLDER_TR_OUTBOUND"
+    },
+    {
+      "type": "block",
+      "tag": "PLACEHOLDER_AUTO_VPS_SELECTOR"
+    }
+  ],
   "route": {
     "rule_set": [
       {
@@ -41,6 +54,5 @@
         "outbound": "PLACEHOLDER_AUTO_VPS_SELECTOR"
       }
     ]
-  },
-  "_notice": "Safe placeholder only. Fill real EU, TR, and auto VPS outbounds plus any client-side fallback outside this repository."
+  }
 }
