@@ -5,12 +5,7 @@
   "dns": {
     "servers": []
   },
-  "outbounds": [
-    {
-      "type": "direct",
-      "tag": "PLACEHOLDER_DIRECT"
-    }
-  ],
+  "outbounds": [],
   "route": {
     "rule_set": [
       {
@@ -45,8 +40,7 @@
         "rule_set": "auto-vps",
         "outbound": "PLACEHOLDER_AUTO_VPS_SELECTOR"
       }
-    ],
-    "final": "PLACEHOLDER_DIRECT"
+    ]
   },
-  "_notice": "Safe placeholder only. Fill real outbounds, endpoints, credentials, keys, and routing details outside this repository."
+  "_notice": "Safe placeholder only. Fill real EU, TR, and auto VPS outbounds plus any client-side fallback outside this repository."
 }
