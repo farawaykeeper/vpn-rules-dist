@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "generated_at_utc": "2026-06-12T14:52:31.414026Z",
+  "git_commit_sha": "7799de97875befa97e4123966c45d120bb8327ef",
+  "routes": {
+    "eu_only": {
+      "domains": 0,
+      "groups": 0
+    },
+    "tr_only": {
+      "domains": 0,
+      "groups": 0
+    },
+    "auto_vps": {
+      "domains": 9,
+      "groups": 3
+    }
+  }
+}
