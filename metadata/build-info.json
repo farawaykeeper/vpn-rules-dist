@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-12T18:55:32.106560Z",
-  "git_commit_sha": "d6aecba3a7107934d8041956255a27b697f23229",
+  "generated_at_utc": "2026-06-12T19:29:34.926588Z",
+  "git_commit_sha": "bef4c599ad03489a933c8c39b61b5a32d76ead52",
   "routes": {
     "eu_only": {
       "domains": 0,
