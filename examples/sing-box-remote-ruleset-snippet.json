@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "eu-only",
+        "format": "source",
+        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/eu-only.json"
+      },
+      {
+        "type": "remote",
+        "tag": "tr-only",
+        "format": "source",
+        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/tr-only.json"
+      },
+      {
+        "type": "remote",
+        "tag": "auto-vps",
+        "format": "source",
+        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/auto-vps.json"
+      }
+    ]
+  }
+}

@@ -1,19 +1,27 @@
 # vpn-rules-dist
 
-This repository is generated automatically from the private `vpn-rules` source repository.
+This public repository is generated automatically from the private `vpn-rules` source repository.
 
 Do not edit files here manually. Manual changes will be overwritten by the publishing workflow.
+
+GitHub stores only safe domain routing rules here. It does not store full working VPN client configurations.
+
+Real Hysteria2/VPS outbounds, server addresses, ports, passwords, UUIDs, private keys, access tokens, TLS/SNI values, and any other VPN secrets must live only in local private configuration on your devices.
+
+Devices should download only remote rule sets from this repository and combine them with their own local private VPN outbounds.
+
+A full working VPN configuration cannot be published safely in a public repository, because it must contain connection secrets.
 
 Available artifacts:
 
 - `rulesets/eu-only.json`
 - `rulesets/tr-only.json`
 - `rulesets/auto-vps.json`
-- `rules/eu-only.txt`
-- `rules/tr-only.txt`
-- `rules/auto-vps.txt`
+- `txt/eu-only.txt`
+- `txt/tr-only.txt`
+- `txt/auto-vps.txt`
 - `metadata/build-info.json`
-- `sing-box.json`
-- `shadowrocket.conf`
+- `metadata/domains-index.json`
+- `examples/sing-box-remote-ruleset-snippet.json`
 
-`sing-box.json` and `shadowrocket.conf` are safe placeholders. They contain no real VPS credentials, tokens, private keys, or server addresses. Replace placeholder policies and outbounds in your private client configuration before using them for traffic.
+Use `examples/sing-box-remote-ruleset-snippet.json` as a safe fragment for the `route.rule_set` section of your private local sing-box configuration.
