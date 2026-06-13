@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-13T09:47:14.740448Z",
+  "generated_at_utc": "2026-06-13T09:49:21.922122Z",
   "match_logic": "domain_suffix",
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 23,
+      "domain_count": 22,
       "groups": {
         "meta": [
           "facebook.com",
@@ -19,7 +19,6 @@
         ],
         "openai": [
           "chatgpt.com",
-          "developers.openai.com",
           "oaistatic.com",
           "oaiusercontent.com",
           "openai.com"
