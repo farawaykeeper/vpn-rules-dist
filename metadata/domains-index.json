@@ -1,41 +1,72 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-13T07:30:45.242070Z",
+  "generated_at_utc": "2026-06-13T09:25:33.163562Z",
   "match_logic": "domain_suffix",
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 0,
-      "groups": {},
-      "ungrouped_domains": []
+      "domain_count": 23,
+      "groups": {
+        "meta": [
+          "facebook.com",
+          "facebook.net",
+          "fbcdn.net",
+          "fbsbx.com",
+          "instagram.com",
+          "wa.me",
+          "whatsapp.com",
+          "whatsapp.net"
+        ],
+        "openai": [
+          "chatgpt.com",
+          "developers.openai.com",
+          "oaistatic.com",
+          "oaiusercontent.com",
+          "openai.com"
+        ]
+      },
+      "ungrouped_domains": [
+        "api.moonshot.ai",
+        "bosch-home.co.uk",
+        "cdninstagram.com",
+        "google.com",
+        "home-connect.com",
+        "kimi.ai",
+        "kimi.com",
+        "lnkdns.net",
+        "singlekey-id.com",
+        "vps.tc"
+      ]
     },
     "tr_only": {
       "artifact_slug": "tr-only",
-      "domain_count": 0,
+      "domain_count": 2,
       "groups": {},
-      "ungrouped_domains": []
+      "ungrouped_domains": [
+        "microsoft.com",
+        "youtube.com"
+      ]
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
       "domain_count": 9,
       "groups": {
-        "openai": [
-          "chatgpt.com",
-          "oaistatic.com",
-          "oaiusercontent.com",
-          "openai.com"
-        ],
         "github": [
           "github.com",
           "githubassets.com",
           "githubusercontent.com"
         ],
-        "whatsapp": [
-          "whatsapp.com",
-          "whatsapp.net"
+        "linkedin": [
+          "licdn.com",
+          "linkedin.com"
         ]
       },
-      "ungrouped_domains": []
+      "ungrouped_domains": [
+        "aliceandolivia.com",
+        "qobuz.com",
+        "speedtest.net",
+        "telegram.org"
+      ]
     }
   }
 }

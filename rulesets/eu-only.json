@@ -1,4 +1,32 @@
 {
   "version": 3,
-  "rules": []
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.moonshot.ai",
+        "bosch-home.co.uk",
+        "cdninstagram.com",
+        "chatgpt.com",
+        "developers.openai.com",
+        "facebook.com",
+        "facebook.net",
+        "fbcdn.net",
+        "fbsbx.com",
+        "google.com",
+        "home-connect.com",
+        "instagram.com",
+        "kimi.ai",
+        "kimi.com",
+        "lnkdns.net",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "singlekey-id.com",
+        "vps.tc",
+        "wa.me",
+        "whatsapp.com",
+        "whatsapp.net"
+      ]
+    }
+  ]
 }
