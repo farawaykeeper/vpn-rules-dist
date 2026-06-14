@@ -1,4 +1,5 @@
 api.moonshot.ai
+auth0.com
 bosch-home.co.uk
 cdninstagram.com
 chatgpt.com
@@ -9,12 +10,15 @@ fbsbx.com
 google.com
 home-connect.com
 instagram.com
+intercom.io
+intercomcdn.com
 kimi.ai
 kimi.com
 lnkdns.net
 oaistatic.com
 oaiusercontent.com
 openai.com
+sentry.io
 singlekey-id.com
 vps.tc
 wa.me

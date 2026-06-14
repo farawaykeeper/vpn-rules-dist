@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-13T09:49:21.922122Z",
+  "generated_at_utc": "2026-06-14T06:38:29.797503Z",
   "match_logic": "domain_suffix",
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 22,
+      "domain_count": 26,
       "groups": {
         "meta": [
           "facebook.com",
@@ -18,10 +18,14 @@
           "whatsapp.net"
         ],
         "openai": [
+          "auth0.com",
           "chatgpt.com",
+          "intercom.io",
+          "intercomcdn.com",
           "oaistatic.com",
           "oaiusercontent.com",
-          "openai.com"
+          "openai.com",
+          "sentry.io"
         ]
       },
       "ungrouped_domains": [
@@ -48,7 +52,7 @@
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 9,
+      "domain_count": 10,
       "groups": {
         "github": [
           "github.com",
@@ -64,6 +68,7 @@
         "aliceandolivia.com",
         "qobuz.com",
         "speedtest.net",
+        "t.me",
         "telegram.org"
       ]
     }
