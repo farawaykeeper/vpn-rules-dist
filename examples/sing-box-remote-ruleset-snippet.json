@@ -5,19 +5,25 @@
         "type": "remote",
         "tag": "eu-only",
         "format": "source",
-        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/eu-only.json"
+        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/eu-only.json",
+        "update_interval": "1h",
+        "download_detour": "direct"
       },
       {
         "type": "remote",
         "tag": "tr-only",
         "format": "source",
-        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/tr-only.json"
+        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/tr-only.json",
+        "update_interval": "1h",
+        "download_detour": "direct"
       },
       {
         "type": "remote",
         "tag": "auto-vps",
         "format": "source",
-        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/auto-vps.json"
+        "url": "https://raw.githubusercontent.com/farawaykeeper/vpn-rules-dist/main/rulesets/auto-vps.json",
+        "update_interval": "1h",
+        "download_detour": "direct"
       }
     ]
   }

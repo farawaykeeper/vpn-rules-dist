@@ -1,32 +1,42 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-14T23:56:08.544289Z",
-  "match_logic": "domain_suffix",
+  "generated_at_utc": "2026-06-16T18:49:57.063168Z",
+  "match_logic": {
+    "domains": "domain_suffix",
+    "ip_cidrs": "ip_cidr"
+  },
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
       "domain_count": 27,
+      "ip_cidr_count": 0,
       "groups": {
-        "meta": [
-          "facebook.com",
-          "facebook.net",
-          "fbcdn.net",
-          "fbsbx.com",
-          "instagram.com",
-          "wa.me",
-          "whatsapp.com",
-          "whatsapp.net"
-        ],
-        "openai": [
-          "auth0.com",
-          "chatgpt.com",
-          "intercom.io",
-          "intercomcdn.com",
-          "oaistatic.com",
-          "oaiusercontent.com",
-          "openai.com",
-          "sentry.io"
-        ]
+        "meta": {
+          "domains": [
+            "facebook.com",
+            "facebook.net",
+            "fbcdn.net",
+            "fbsbx.com",
+            "instagram.com",
+            "wa.me",
+            "whatsapp.com",
+            "whatsapp.net"
+          ],
+          "ip_cidrs": []
+        },
+        "openai": {
+          "domains": [
+            "auth0.com",
+            "chatgpt.com",
+            "intercom.io",
+            "intercomcdn.com",
+            "oaistatic.com",
+            "oaiusercontent.com",
+            "openai.com",
+            "sentry.io"
+          ],
+          "ip_cidrs": []
+        }
       },
       "ungrouped_domains": [
         "api.moonshot.ai",
@@ -40,38 +50,57 @@
         "moonshot.ai",
         "singlekey-id.com",
         "vps.tc"
-      ]
+      ],
+      "ungrouped_ip_cidrs": []
     },
     "tr_only": {
       "artifact_slug": "tr-only",
       "domain_count": 2,
+      "ip_cidr_count": 0,
       "groups": {},
       "ungrouped_domains": [
         "microsoft.com",
         "youtube.com"
-      ]
+      ],
+      "ungrouped_ip_cidrs": []
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
       "domain_count": 10,
+      "ip_cidr_count": 2,
       "groups": {
-        "github": [
-          "github.com",
-          "githubassets.com",
-          "githubusercontent.com"
-        ],
-        "linkedin": [
-          "licdn.com",
-          "linkedin.com"
-        ]
+        "github": {
+          "domains": [
+            "github.com",
+            "githubassets.com",
+            "githubusercontent.com"
+          ],
+          "ip_cidrs": []
+        },
+        "linkedin": {
+          "domains": [
+            "licdn.com",
+            "linkedin.com"
+          ],
+          "ip_cidrs": []
+        },
+        "telegram": {
+          "domains": [
+            "t.me",
+            "telegram.org"
+          ],
+          "ip_cidrs": [
+            "149.154.0.0/16",
+            "91.108.0.0/16"
+          ]
+        }
       },
       "ungrouped_domains": [
         "aliceandolivia.com",
         "qobuz.com",
-        "speedtest.net",
-        "t.me",
-        "telegram.org"
-      ]
+        "speedtest.net"
+      ],
+      "ungrouped_ip_cidrs": []
     }
   }
 }
