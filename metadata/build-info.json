@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-16T18:49:57.061846Z",
+  "generated_at_utc": "2026-06-18T05:25:54.789871Z",
   "routes": {
     "eu_only": {
-      "domains": 27,
+      "domains": 25,
       "ip_cidrs": 0,
       "groups": 2
     },
@@ -13,7 +13,7 @@
       "groups": 0
     },
     "auto_vps": {
-      "domains": 10,
+      "domains": 11,
       "ip_cidrs": 2,
       "groups": 3
     }

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-16T18:49:57.063168Z",
+  "generated_at_utc": "2026-06-18T05:25:54.791044Z",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -8,11 +8,12 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 27,
+      "domain_count": 25,
       "ip_cidr_count": 0,
       "groups": {
         "meta": {
           "domains": [
+            "cdninstagram.com",
             "facebook.com",
             "facebook.net",
             "fbcdn.net",
@@ -41,12 +42,9 @@
       "ungrouped_domains": [
         "api.moonshot.ai",
         "bosch-home.co.uk",
-        "cdninstagram.com",
-        "google.com",
         "home-connect.com",
         "kimi.ai",
         "kimi.com",
-        "lnkdns.net",
         "moonshot.ai",
         "singlekey-id.com",
         "vps.tc"
@@ -66,7 +64,7 @@
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 10,
+      "domain_count": 11,
       "ip_cidr_count": 2,
       "groups": {
         "github": {
@@ -80,7 +78,8 @@
         "linkedin": {
           "domains": [
             "licdn.com",
-            "linkedin.com"
+            "linkedin.com",
+            "lnkdns.net"
           ],
           "ip_cidrs": []
         },

@@ -6,6 +6,7 @@ githubassets.com
 githubusercontent.com
 licdn.com
 linkedin.com
+lnkdns.net
 qobuz.com
 speedtest.net
 t.me

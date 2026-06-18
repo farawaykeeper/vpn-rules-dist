@@ -7,14 +7,12 @@ facebook.com
 facebook.net
 fbcdn.net
 fbsbx.com
-google.com
 home-connect.com
 instagram.com
 intercom.io
 intercomcdn.com
 kimi.ai
 kimi.com
-lnkdns.net
 moonshot.ai
 oaistatic.com
 oaiusercontent.com
