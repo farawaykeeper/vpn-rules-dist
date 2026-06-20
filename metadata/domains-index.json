@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-20T21:28:29Z",
-  "source_commit": "b0ba6949daafaa1e58af64ab1abab39110242188",
+  "generated_at_utc": "2026-06-20T23:18:44Z",
+  "source_commit": "31384996edb13c9c10f2c6e4069d1bd1dd5202c1",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 25,
+      "domain_count": 26,
       "ip_cidr_count": 0,
       "groups": {
         "meta": {
@@ -48,19 +48,19 @@
         "kimi.com",
         "moonshot.ai",
         "singlekey-id.com",
-        "vps.tc"
+        "vps.tc",
+        "youtube.com"
       ],
       "ungrouped_ip_cidrs": []
     },
     "tr_only": {
       "artifact_slug": "tr-only",
-      "domain_count": 3,
+      "domain_count": 2,
       "ip_cidr_count": 0,
       "groups": {},
       "ungrouped_domains": [
         "microsoft.com",
-        "qobuz.com",
-        "youtube.com"
+        "qobuz.com"
       ],
       "ungrouped_ip_cidrs": []
     },
