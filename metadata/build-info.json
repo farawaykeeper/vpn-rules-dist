@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-20T21:27:33Z",
-  "source_commit": "bee3fd3aeaa89b354324f21f3191b41d946621ec",
+  "generated_at_utc": "2026-06-20T21:27:51Z",
+  "source_commit": "96c64db44ec5d70f41ec31eb94520eed70a245b2",
   "routes": {
     "eu_only": {
       "domains": 25,
@@ -14,7 +14,7 @@
       "groups": 0
     },
     "auto_vps": {
-      "domains": 12,
+      "domains": 11,
       "ip_cidrs": 2,
       "groups": 3
     }

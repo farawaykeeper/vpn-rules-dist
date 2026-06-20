@@ -13,8 +13,7 @@
         "qobuz.com",
         "speedtest.net",
         "t.me",
-        "telegram.org",
-        "test.ru"
+        "telegram.org"
       ],
       "ip_cidr": [
         "149.154.0.0/16",
