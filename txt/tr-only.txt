@@ -5,6 +5,7 @@ microsoft.com
 qobuz.com
 youtu.be
 youtube-nocookie.com
+youtube.com
 youtube.googleapis.com
 youtubeembeddedplayer.googleapis.com
 youtubei.googleapis.com

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-20T23:32:51Z",
-  "source_commit": "5f37b44f9dfd715a3fa0b79205adf4029b7a237e",
+  "generated_at_utc": "2026-06-20T23:33:12Z",
+  "source_commit": "99ba3fbf9526c88a0b1fab377f59345152dc4441",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -54,7 +54,7 @@
     },
     "tr_only": {
       "artifact_slug": "tr-only",
-      "domain_count": 11,
+      "domain_count": 12,
       "ip_cidr_count": 0,
       "groups": {
         "youtube": {
@@ -64,6 +64,7 @@
             "googlevideo.com",
             "youtu.be",
             "youtube-nocookie.com",
+            "youtube.com",
             "youtube.googleapis.com",
             "youtubeembeddedplayer.googleapis.com",
             "youtubei.googleapis.com",
