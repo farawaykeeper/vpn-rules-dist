@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-20T20:13:22Z",
-  "source_commit": "3a6957719b061543b28474c1dc98268692dbfbd0",
+  "generated_at_utc": "2026-06-20T20:56:43Z",
+  "source_commit": "0dcd07b29cac8135d3d2c9f2788cbe1c6e2cd1a4",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -65,7 +65,7 @@
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 11,
+      "domain_count": 12,
       "ip_cidr_count": 2,
       "groups": {
         "github": {
@@ -98,7 +98,8 @@
       "ungrouped_domains": [
         "aliceandolivia.com",
         "qobuz.com",
-        "speedtest.net"
+        "speedtest.net",
+        "test.com"
       ],
       "ungrouped_ip_cidrs": []
     }
