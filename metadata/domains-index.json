@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-20T21:27:51Z",
-  "source_commit": "96c64db44ec5d70f41ec31eb94520eed70a245b2",
+  "generated_at_utc": "2026-06-20T21:28:29Z",
+  "source_commit": "b0ba6949daafaa1e58af64ab1abab39110242188",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -54,18 +54,19 @@
     },
     "tr_only": {
       "artifact_slug": "tr-only",
-      "domain_count": 2,
+      "domain_count": 3,
       "ip_cidr_count": 0,
       "groups": {},
       "ungrouped_domains": [
         "microsoft.com",
+        "qobuz.com",
         "youtube.com"
       ],
       "ungrouped_ip_cidrs": []
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 11,
+      "domain_count": 10,
       "ip_cidr_count": 2,
       "groups": {
         "github": {
@@ -97,7 +98,6 @@
       },
       "ungrouped_domains": [
         "aliceandolivia.com",
-        "qobuz.com",
         "speedtest.net"
       ],
       "ungrouped_ip_cidrs": []
