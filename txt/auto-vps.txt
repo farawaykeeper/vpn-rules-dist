@@ -12,3 +12,4 @@ speedtest.net
 t.me
 telegram.org
 test.com
+test.ru

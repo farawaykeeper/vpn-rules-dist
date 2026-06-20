@@ -14,7 +14,8 @@
         "speedtest.net",
         "t.me",
         "telegram.org",
-        "test.com"
+        "test.com",
+        "test.ru"
       ],
       "ip_cidr": [
         "149.154.0.0/16",
