@@ -1,2 +1,11 @@
+ggpht.com
+googleusercontent.com
+googlevideo.com
 microsoft.com
 qobuz.com
+youtu.be
+youtube-nocookie.com
+youtube.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtubei.googleapis.com
+ytimg.com
