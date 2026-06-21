@@ -1,3 +1,6 @@
+157.240.0.0/17
+157.240.192.0/18
+31.13.64.0/18
 api.moonshot.ai
 auth0.com
 bosch-home.co.uk
