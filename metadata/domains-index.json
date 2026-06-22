@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-22T10:08:22Z",
-  "source_commit": "a945ad42b731026a9f68b882e433456b4117d919",
+  "generated_at_utc": "2026-06-22T10:09:05Z",
+  "source_commit": "c2de76a41e0e036c8453a19f9c6981be2b08378c",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 28,
+      "domain_count": 29,
       "ip_cidr_count": 3,
       "groups": {
         "meta": {
@@ -52,6 +52,7 @@
         "kimi.com",
         "moonshot.ai",
         "notion.com",
+        "notion.site",
         "notion.so",
         "notionusercontent.com",
         "singlekey-id.com",
