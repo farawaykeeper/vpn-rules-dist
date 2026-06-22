@@ -17,6 +17,7 @@ intercomcdn.com
 kimi.ai
 kimi.com
 moonshot.ai
+notion.com
 oaistatic.com
 oaiusercontent.com
 openai.com
