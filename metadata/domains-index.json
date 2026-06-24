@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-06-24T07:41:23Z",
-  "source_commit": "af4acef634a4cbab2f1e6408aa185917d262d806",
+  "generated_at_utc": "2026-06-24T10:27:26Z",
+  "source_commit": "3b0386933248f6d208dbb878f9126906e6a75ce5",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -90,7 +90,7 @@
     "auto_vps": {
       "artifact_slug": "auto-vps",
       "domain_count": 10,
-      "ip_cidr_count": 11,
+      "ip_cidr_count": 12,
       "groups": {
         "github": {
           "domains": [
@@ -115,6 +115,7 @@
           ],
           "ip_cidrs": [
             "149.154.160.0/20",
+            "16.170.124.74/32",
             "185.76.151.0/24",
             "194.221.250.0/24",
             "91.105.192.0/23",
