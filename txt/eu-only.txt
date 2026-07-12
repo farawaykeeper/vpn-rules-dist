@@ -25,6 +25,7 @@ oaistatic.com
 oaiusercontent.com
 openai.com
 sentry.io
+setup.workos.com
 singlekey-id.com
 vps.tc
 wa.me
