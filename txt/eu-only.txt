@@ -5,6 +5,7 @@ api.moonshot.ai
 auth0.com
 bosch-home.co.uk
 cdninstagram.com
+challenges.cloudflare.com
 chatgpt.com
 facebook.com
 facebook.net
