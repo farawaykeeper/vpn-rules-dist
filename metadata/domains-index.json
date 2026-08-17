@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-07-17T22:10:02Z",
-  "source_commit": "c98344ecce00edf78ca11fa7de7f5187a0b3c638",
+  "generated_at_utc": "2026-08-17T20:39:36Z",
+  "source_commit": "12a72e01b6ab7a12e22e57fc67bf53a4b30b037f",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 32,
+      "domain_count": 33,
       "ip_cidr_count": 3,
       "groups": {
         "meta": {
@@ -52,6 +52,7 @@
         "home-connect.com",
         "kimi.ai",
         "kimi.com",
+        "lge.com",
         "moonshot.ai",
         "notion.com",
         "notion.site",

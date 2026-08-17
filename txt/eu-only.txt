@@ -17,6 +17,7 @@ intercom.io
 intercomcdn.com
 kimi.ai
 kimi.com
+lge.com
 moonshot.ai
 notion.com
 notion.site
