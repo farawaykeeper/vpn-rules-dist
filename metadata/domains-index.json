@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-08-24T10:51:20Z",
-  "source_commit": "c4f79b7550c7baece4300cc95d401f4bb603109b",
+  "generated_at_utc": "2026-08-24T18:31:51Z",
+  "source_commit": "01caf7b52e1701c1a3529af277d39ae5c3ccdeba",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 36,
+      "domain_count": 37,
       "ip_cidr_count": 3,
       "groups": {
         "meta": {
@@ -44,6 +44,13 @@
             "setup.workos.com"
           ],
           "ip_cidrs": []
+        },
+        "todoist": {
+          "domains": [
+            "todoist.com",
+            "todoist.net"
+          ],
+          "ip_cidrs": []
         }
       },
       "ungrouped_domains": [
@@ -62,7 +69,6 @@
         "onlyfans.com",
         "openrouter.ai",
         "singlekey-id.com",
-        "todoist.com",
         "vps.tc"
       ],
       "ungrouped_ip_cidrs": []
