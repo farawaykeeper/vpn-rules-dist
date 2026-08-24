@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-08-23T09:30:58Z",
-  "source_commit": "3df2783a10fef3b382d013981353f95f0563a405",
+  "generated_at_utc": "2026-08-24T10:51:20Z",
+  "source_commit": "c4f79b7550c7baece4300cc95d401f4bb603109b",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 35,
+      "domain_count": 36,
       "ip_cidr_count": 3,
       "groups": {
         "meta": {
@@ -62,6 +62,7 @@
         "onlyfans.com",
         "openrouter.ai",
         "singlekey-id.com",
+        "todoist.com",
         "vps.tc"
       ],
       "ungrouped_ip_cidrs": []
