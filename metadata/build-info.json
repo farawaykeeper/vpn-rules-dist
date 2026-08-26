@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-08-24T18:31:51Z",
-  "source_commit": "01caf7b52e1701c1a3529af277d39ae5c3ccdeba",
+  "generated_at_utc": "2026-08-26T21:18:03Z",
+  "source_commit": "aba2115c086f88ddeaddc39e01d95572f6759f51",
   "routes": {
     "eu_only": {
-      "domains": 37,
+      "domains": 47,
       "ip_cidrs": 3,
-      "groups": 3
+      "groups": 4
     },
     "tr_only": {
-      "domains": 12,
+      "domains": 2,
       "ip_cidrs": 0,
-      "groups": 1
+      "groups": 0
     },
     "auto_vps": {
       "domains": 10,

@@ -11,6 +11,9 @@ facebook.com
 facebook.net
 fbcdn.net
 fbsbx.com
+ggpht.com
+googleusercontent.com
+googlevideo.com
 home-connect.com
 instagram.com
 intercom.io
@@ -38,3 +41,10 @@ vps.tc
 wa.me
 whatsapp.com
 whatsapp.net
+youtu.be
+youtube-nocookie.com
+youtube.com
+youtube.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtubei.googleapis.com
+ytimg.com

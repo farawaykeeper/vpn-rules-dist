@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-08-24T18:31:51Z",
-  "source_commit": "01caf7b52e1701c1a3529af277d39ae5c3ccdeba",
+  "generated_at_utc": "2026-08-26T21:18:03Z",
+  "source_commit": "aba2115c086f88ddeaddc39e01d95572f6759f51",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 37,
+      "domain_count": 47,
       "ip_cidr_count": 3,
       "groups": {
         "meta": {
@@ -51,6 +51,21 @@
             "todoist.net"
           ],
           "ip_cidrs": []
+        },
+        "youtube": {
+          "domains": [
+            "ggpht.com",
+            "googleusercontent.com",
+            "googlevideo.com",
+            "youtu.be",
+            "youtube-nocookie.com",
+            "youtube.com",
+            "youtube.googleapis.com",
+            "youtubeembeddedplayer.googleapis.com",
+            "youtubei.googleapis.com",
+            "ytimg.com"
+          ],
+          "ip_cidrs": []
         }
       },
       "ungrouped_domains": [
@@ -75,25 +90,9 @@
     },
     "tr_only": {
       "artifact_slug": "tr-only",
-      "domain_count": 12,
+      "domain_count": 2,
       "ip_cidr_count": 0,
-      "groups": {
-        "youtube": {
-          "domains": [
-            "ggpht.com",
-            "googleusercontent.com",
-            "googlevideo.com",
-            "youtu.be",
-            "youtube-nocookie.com",
-            "youtube.com",
-            "youtube.googleapis.com",
-            "youtubeembeddedplayer.googleapis.com",
-            "youtubei.googleapis.com",
-            "ytimg.com"
-          ],
-          "ip_cidrs": []
-        }
-      },
+      "groups": {},
       "ungrouped_domains": [
         "microsoft.com",
         "qobuz.com"
