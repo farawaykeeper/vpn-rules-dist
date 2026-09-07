@@ -3,12 +3,19 @@
   "rules": [
     {
       "domain_suffix": [
+        "anthropic.com",
         "api.moonshot.ai",
         "auth0.com",
         "bosch-home.co.uk",
         "cdninstagram.com",
         "challenges.cloudflare.com",
         "chatgpt.com",
+        "clau.de",
+        "claude.ai",
+        "claude.app",
+        "claude.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
         "facebook.com",
         "facebook.net",
         "fbcdn.net",
