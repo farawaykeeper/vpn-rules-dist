@@ -20,6 +20,7 @@ fbcdn.net
 fbsbx.com
 ggpht.com
 google.com
+googleapis.com
 googleusercontent.com
 googlevideo.com
 home-connect.com
