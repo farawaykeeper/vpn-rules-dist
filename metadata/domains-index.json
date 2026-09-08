@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-08T13:25:02Z",
-  "source_commit": "f21fb3ead1e6b3d428eb82db6763e8e63406290b",
+  "generated_at_utc": "2026-09-08T13:25:20Z",
+  "source_commit": "0cfcf5e9316b9157b9d7641b86c05c573a307ec3",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 60,
+      "domain_count": 61,
       "ip_cidr_count": 3,
       "groups": {
         "anthropic": {
@@ -27,6 +27,7 @@
         "google": {
           "domains": [
             "doubleclick.net",
+            "google-analytics.com",
             "google.com",
             "google.dev",
             "googleapis.com",

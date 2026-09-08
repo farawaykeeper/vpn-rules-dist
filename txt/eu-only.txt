@@ -20,6 +20,7 @@ facebook.net
 fbcdn.net
 fbsbx.com
 ggpht.com
+google-analytics.com
 google.com
 google.dev
 googleapis.com
