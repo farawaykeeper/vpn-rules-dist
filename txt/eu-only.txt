@@ -14,6 +14,7 @@ claude.app
 claude.com
 claudemcpcontent.com
 claudeusercontent.com
+doubleclick.net
 facebook.com
 facebook.net
 fbcdn.net
