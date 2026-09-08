@@ -23,6 +23,7 @@ google.com
 googleapis.com
 googleusercontent.com
 googlevideo.com
+gstatic.com
 home-connect.com
 instagram.com
 intercom.io
