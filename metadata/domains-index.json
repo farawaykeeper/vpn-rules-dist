@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-07T08:39:42Z",
-  "source_commit": "9ae8da5983ad84aa5acd10eedab808bb7e8ff8da",
+  "generated_at_utc": "2026-09-08T13:19:31Z",
+  "source_commit": "e00131ba25279d0a7a8c47cd4715d640f6701269",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -22,6 +22,10 @@
             "claudemcpcontent.com",
             "claudeusercontent.com"
           ],
+          "ip_cidrs": []
+        },
+        "google": {
+          "domains": [],
           "ip_cidrs": []
         },
         "meta": {
