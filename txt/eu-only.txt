@@ -3,6 +3,9 @@
 31.13.64.0/18
 anthropic.com
 api.moonshot.ai
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
 auth0.com
 bosch-home.co.uk
 cdninstagram.com
@@ -14,6 +17,7 @@ claude.app
 claude.com
 claudemcpcontent.com
 claudeusercontent.com
+cp4.cloudflare.com
 doubleclick.net
 facebook.com
 facebook.net
@@ -28,6 +32,7 @@ googletagmanager.com
 googleusercontent.com
 googlevideo.com
 gstatic.com
+guzzoni.apple.com
 home-connect.com
 instagram.com
 intercom.io
@@ -49,6 +54,7 @@ openrouter.ai
 sentry.io
 setup.workos.com
 singlekey-id.com
+smoot.apple.com
 todoist.com
 todoist.net
 vps.tc

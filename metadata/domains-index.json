@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-08T13:25:38Z",
-  "source_commit": "4dab8b7b6901a74a1aeed2122e9de36e49edf4a2",
+  "generated_at_utc": "2026-09-19T14:13:16Z",
+  "source_commit": "63009228d3f0e2202494453d12e30f7a750f13bc",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,9 +9,20 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 62,
+      "domain_count": 68,
       "ip_cidr_count": 3,
       "groups": {
+        "apple-ai": {
+          "domains": [
+            "apple-relay.apple.com",
+            "apple-relay.cloudflare.com",
+            "apple-relay.fastly-edge.com",
+            "cp4.cloudflare.com",
+            "guzzoni.apple.com",
+            "smoot.apple.com"
+          ],
+          "ip_cidrs": []
+        },
         "anthropic": {
           "domains": [
             "anthropic.com",
