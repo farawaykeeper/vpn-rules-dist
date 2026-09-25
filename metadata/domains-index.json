@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-19T14:13:16Z",
-  "source_commit": "63009228d3f0e2202494453d12e30f7a750f13bc",
+  "generated_at_utc": "2026-09-25T10:16:20Z",
+  "source_commit": "367c88c935cff0835fade73f85d5056420944a0e",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 68,
+      "domain_count": 69,
       "ip_cidr_count": 3,
       "groups": {
         "apple-ai": {
@@ -105,6 +105,7 @@
         }
       },
       "ungrouped_domains": [
+        "amnezia.org",
         "api.moonshot.ai",
         "bosch-home.co.uk",
         "home-connect.com",

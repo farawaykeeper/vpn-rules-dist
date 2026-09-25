@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "amnezia.org",
         "anthropic.com",
         "api.moonshot.ai",
         "apple-relay.apple.com",

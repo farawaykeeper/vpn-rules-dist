@@ -1,6 +1,7 @@
 157.240.0.0/17
 157.240.192.0/18
 31.13.64.0/18
+amnezia.org
 anthropic.com
 api.moonshot.ai
 apple-relay.apple.com
