@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-09-25T10:16:20Z",
-  "source_commit": "367c88c935cff0835fade73f85d5056420944a0e",
+  "generated_at_utc": "2026-09-25T15:12:20Z",
+  "source_commit": "7b2142a7379430fdbdb86bf6d21d4d9b33b6d5d2",
   "routes": {
     "eu_only": {
-      "domains": 69,
+      "domains": 83,
       "ip_cidrs": 3,
-      "groups": 7
+      "groups": 8
     },
     "tr_only": {
       "domains": 2,
