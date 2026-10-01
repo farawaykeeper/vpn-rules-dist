@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-01T12:07:35Z",
-  "source_commit": "a49a08b38d8d023d2c770e366d40792388e5041c",
+  "generated_at_utc": "2026-10-01T19:19:30Z",
+  "source_commit": "c2b4b29ba38e2f135b8d0571a1bf824e9a99c8fe",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 84,
+      "domain_count": 85,
       "ip_cidr_count": 3,
       "groups": {
         "apple-ai": {
@@ -140,6 +140,7 @@
         "onlyfans.com",
         "openrouter.ai",
         "singlekey-id.com",
+        "sixsenses.com",
         "vps.tc",
         "whitelabelservices.us"
       ],
