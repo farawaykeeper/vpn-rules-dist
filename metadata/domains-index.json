@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-01T19:19:30Z",
-  "source_commit": "c2b4b29ba38e2f135b8d0571a1bf824e9a99c8fe",
+  "generated_at_utc": "2026-10-01T20:59:09Z",
+  "source_commit": "01419d4b974c3c7d11ecff2c2e322421b2315b6b",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 85,
+      "domain_count": 71,
       "ip_cidr_count": 3,
       "groups": {
         "apple-ai": {
@@ -45,25 +45,6 @@
             "googletagmanager.com",
             "gstatic.com",
             "withgoogle.com"
-          ],
-          "ip_cidrs": []
-        },
-        "icloud": {
-          "domains": [
-            "account.apple.com",
-            "apple-cloudkit.com",
-            "apple-dns.net",
-            "apple-livephotoskit.com",
-            "appleid.cdn-apple.com",
-            "cdn-apple.com",
-            "gateway.icloud.com",
-            "gc.apple.com",
-            "gsa.apple.com",
-            "icloud-content.com",
-            "icloud.apple.com",
-            "icloud.com",
-            "idmsa.apple.com",
-            "iwork.apple.com"
           ],
           "ip_cidrs": []
         },
