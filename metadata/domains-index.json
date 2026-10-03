@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-02T23:14:36Z",
-  "source_commit": "321f74418697b2f03e44a99e600963b4c3f1624d",
+  "generated_at_utc": "2026-10-03T06:14:48Z",
+  "source_commit": "3ad41394605556305f1173a081febf7b54c5362c",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
