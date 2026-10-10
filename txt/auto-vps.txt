@@ -18,6 +18,7 @@ kino.watch
 licdn.com
 linkedin.com
 lnkdns.net
+rutracker.org
 speedtest.net
 t.me
 telegram.org
