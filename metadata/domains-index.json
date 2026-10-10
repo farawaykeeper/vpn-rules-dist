@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-10T14:28:58Z",
-  "source_commit": "690a61ab698f8c711095e9a9438c9e2968e34891",
+  "generated_at_utc": "2026-10-10T14:30:08Z",
+  "source_commit": "f13eecdb4f0c15d332f85088879cf238acffc069",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -140,7 +140,7 @@
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 12,
+      "domain_count": 13,
       "ip_cidr_count": 12,
       "groups": {
         "github": {
@@ -184,6 +184,7 @@
         "aliceandolivia.com",
         "kino.watch",
         "rutracker.org",
+        "rutracker.wiki",
         "speedtest.net"
       ],
       "ungrouped_ip_cidrs": []

@@ -19,6 +19,7 @@ licdn.com
 linkedin.com
 lnkdns.net
 rutracker.org
+rutracker.wiki
 speedtest.net
 t.me
 telegram.org
