@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-10-26T00:14:57Z",
-  "source_commit": "f8ffd8e25c91daceaa01ed4fc3d3b7e8c89cd84d",
+  "generated_at_utc": "2026-10-26T21:02:53Z",
+  "source_commit": "78cd2fe17366fbf27a49652eff5b428d1ef4e19f",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -9,7 +9,7 @@
   "routes": {
     "eu_only": {
       "artifact_slug": "eu-only",
-      "domain_count": 72,
+      "domain_count": 73,
       "ip_cidr_count": 3,
       "groups": {
         "apple-ai": {
@@ -120,6 +120,7 @@
         "lge.com",
         "lgemembers.com",
         "moonshot.ai",
+        "nomadgoods.com",
         "notion.com",
         "notion.site",
         "notion.so",
