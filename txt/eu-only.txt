@@ -52,6 +52,7 @@ oaiusercontent.com
 onlyfans.com
 openai.com
 openrouter.ai
+s3.dualstack.eu-west-1.amazonaws.com
 sentry.io
 setup.workos.com
 singlekey-id.com
