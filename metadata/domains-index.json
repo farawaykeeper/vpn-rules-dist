@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-06T09:35:49Z",
-  "source_commit": "a35afdd913d925d0d088cb7cf5a289eb90dbe066",
+  "generated_at_utc": "2026-11-06T22:06:06Z",
+  "source_commit": "8de7511319636a372c0303345f6bb9c1575ef2ad",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -147,7 +147,7 @@
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 15,
+      "domain_count": 16,
       "ip_cidr_count": 12,
       "groups": {
         "github": {
@@ -190,6 +190,7 @@
       "ungrouped_domains": [
         "aliceandolivia.com",
         "cloudflare-ech.com",
+        "digitalocean.com",
         "hetzner.com",
         "kino.watch",
         "rutracker.org",

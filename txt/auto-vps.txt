@@ -12,6 +12,7 @@
 95.161.64.0/20
 aliceandolivia.com
 cloudflare-ech.com
+digitalocean.com
 github.com
 githubassets.com
 githubusercontent.com
