@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-06T22:06:06Z",
-  "source_commit": "8de7511319636a372c0303345f6bb9c1575ef2ad",
+  "generated_at_utc": "2026-11-06T22:06:49Z",
+  "source_commit": "c14edb147079234c58ed0c50b309436b581e89e1",
   "match_logic": {
     "domains": "domain_suffix",
     "ip_cidrs": "ip_cidr"
@@ -147,7 +147,7 @@
     },
     "auto_vps": {
       "artifact_slug": "auto-vps",
-      "domain_count": 16,
+      "domain_count": 17,
       "ip_cidr_count": 12,
       "groups": {
         "github": {
@@ -193,6 +193,7 @@
         "digitalocean.com",
         "hetzner.com",
         "kino.watch",
+        "linode.com",
         "rutracker.org",
         "rutracker.wiki",
         "speedtest.net"

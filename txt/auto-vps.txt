@@ -20,6 +20,7 @@ hetzner.com
 kino.watch
 licdn.com
 linkedin.com
+linode.com
 lnkdns.net
 rutracker.org
 rutracker.wiki
